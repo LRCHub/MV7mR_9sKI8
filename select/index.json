@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぶっ生き返す（feat. XakiMichele、tip jam、Tade Dust）",
+  "base_artist": "夜猫族",
+  "createdAt": "2026-03-22T10:19:35.473308Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぶっ生き返す (feat. XakiMichele, tip jam & Tade Dust)",
+      "artist": "夜猫族",
+      "has_synced": false,
+      "path": "select/pl_01_ぶっ生き返す_(feat._XakiMichele,_tip_jam_&_Tade_Dust)_夜猫族.txt"
+    }
+  ]
+}
